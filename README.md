@@ -27,6 +27,10 @@
      protoc object_detection/protos/*.proto --python_out=.
     
    - modified this code and save into tensorflow/models/research/ and run
+   
+   # For more information about installation tensorFlow
+   
+   https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
     
    Happy Coding
 
