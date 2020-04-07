@@ -23,9 +23,9 @@
     cocoapi
    
    - From tensorflow/models/research/
-    protoc object_detection/protos/*.proto --python_out=.
+   protoc object_detection/protos/*.proto --python_out=.
     
-   - save this code on tensorflow/models/research/ and run
+   - modified this code and save into tensorflow/models/research/ and run
     
    Happy Coding
 
