@@ -1,11 +1,12 @@
 # how to run this program:
 
    Install Python 3.xx
-    - Make Virtual Environment
-    - python3 -m venv tensorflowDetection ( you can change this name )
-    - Active your Virtual Environment source /bin/activate
-    - download models from https://github.com/tensorflow/models ( include in your Environment )
-    - Tensorflow Object Detection API depends on the following libraries & install on your Environment :
+   
+   - Make Virtual Environment
+   - python3 -m venv tensorflowDetection ( you can change this name )
+   - Active your Virtual Environment source /bin/activate
+   - download models from https://github.com/tensorflow/models ( include in your Environment )
+   - Tensorflow Object Detection API depends on the following libraries & install on your Environment :
     
     numpy
     opencv-python
